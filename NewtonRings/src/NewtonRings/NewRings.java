@@ -1,4 +1,4 @@
-package nowe;
+package NewtonRings;
 
 import java.awt.Color;
 import java.awt.FlowLayout;
